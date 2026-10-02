@@ -1,0 +1,27 @@
+P LAKSHMI VENKATESHA
+B.Tech, Computer Science and Engineering | SRN: R25EF173
+
+PROFILE
+Computer Science and Engineering student interested in software development, artificial intelligence, machine learning, and problem-solving.
+
+SKILLS
+Programming: Python, C, C++, Java
+AI & machine learning: Artificial Intelligence, Machine Learning, YOLO, OpenCV
+Tools & technologies: Git, GitHub, VS Code, SQL
+Development: HTML, CSS, JavaScript, Responsive Web Design
+
+PROJECT EXPERIENCE
+Smart India Hackathon 2026: AI-Based Intelligent Video Analytics Platform for Border Surveillance
+Exploring video analysis, object detection, restricted-zone intrusion detection, and security alerts using existing CCTV infrastructure.
+
+EDUCATION
+B.Tech, Computer Science and Engineering
+Reva University | Academic year: 2026 | SRN: R25EF173
+
+PROFILES
+GitHub: https://github.com/venkateshp1551-alt
+LeetCode: https://leetcode.com/u/venkateshp1511/
+HackerRank: https://www.hackerrank.com/profile/venkateshp1551
+LinkedIn: https://www.linkedin.com/in/venkatesh-p-221882395
+
+Email address and project repository were not provided.
